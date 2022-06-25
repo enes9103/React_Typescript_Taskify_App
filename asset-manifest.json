@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React_Typescript_Taskify_App/static/css/main.ecbc63a3.chunk.css",
+    "main.js": "/React_Typescript_Taskify_App/static/js/main.774fb1c3.chunk.js",
+    "main.js.map": "/React_Typescript_Taskify_App/static/js/main.774fb1c3.chunk.js.map",
+    "runtime-main.js": "/React_Typescript_Taskify_App/static/js/runtime-main.37da12cf.js",
+    "runtime-main.js.map": "/React_Typescript_Taskify_App/static/js/runtime-main.37da12cf.js.map",
+    "static/js/2.611816d8.chunk.js": "/React_Typescript_Taskify_App/static/js/2.611816d8.chunk.js",
+    "static/js/2.611816d8.chunk.js.map": "/React_Typescript_Taskify_App/static/js/2.611816d8.chunk.js.map",
+    "index.html": "/React_Typescript_Taskify_App/index.html",
+    "static/css/main.ecbc63a3.chunk.css.map": "/React_Typescript_Taskify_App/static/css/main.ecbc63a3.chunk.css.map",
+    "static/js/2.611816d8.chunk.js.LICENSE.txt": "/React_Typescript_Taskify_App/static/js/2.611816d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37da12cf.js",
+    "static/js/2.611816d8.chunk.js",
+    "static/css/main.ecbc63a3.chunk.css",
+    "static/js/main.774fb1c3.chunk.js"
+  ]
+}
