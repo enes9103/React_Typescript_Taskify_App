@@ -1,17 +1,12 @@
 ## About The Project
-Movie Application is an application where users can search and review the details of the movies they want by registering and logging in, add them to their favorites by commenting on the movies, and also share them with their loved ones.
-DEMO: https://movieapptypescript.herokuapp.com/
+Taskify Application is an application developed with React.js using Typescript, where users can manage tasks by adding them.
 
 <!-- DESCRİPTİON -->
 ## Description
-- The Movie Application consists of 3 pages: "Home page (search)", "listing" and "movie detail".
-- With the Movie Application, users can register to the application with their e-mail addresses. You can also use the option to continue with the Google account with the Google Provider feature.
-- You can see the current movies on the main page of the application and get information about the movie sessions.
-- You can search for the movies you want on the application home page.
-- It can list all Search results with "MORE RESULTS" option.
-- You can view the details of the movies listed by clicking on the relevant movie.
-- You can add the movie you like in the movie details to your favorites, suggest it to another person via e-mail address, and comment on the movie.
-- He can continue to review the movies he has listed by going back from the detail page.
+- Taskify Application consists of 1 page.
+- With the application, users can add the job to the list, update the added task, cross out the completed task or remove it completely from the list.
+- The project was prepared with React.js using typescript.
+- Styled Component is used in project style operations.
 - The application can work responsively on mobile and desktop platforms.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
